@@ -5,7 +5,7 @@
 // }
 // console.log(reversString('hellow'));
 
-// 2 find lagest number 
+// 2 find lagest number
 
 // const arr = [1, 3, 2, 5, 2, 9];
 
@@ -20,7 +20,7 @@
 // console.log(max([1, 2, 3, 4, 3, 7, 9, 1]));
 
 
-const arrNum = [1, 4, 3, 6, 7, 4];
+// const arrNum = [1, 4, 3, 6, 7, 4];
 
 // const max = Math.max(...arrNum);
 // console.log('max num :', max);
@@ -48,12 +48,12 @@ const arrNum = [1, 4, 3, 6, 7, 4];
 
 // const max = Math.max(...arrNum);
 
-let max = arrNum[0];
+// let max = arrNum[0];
 
-for (let i = 1; i < arrNum.length; i++) {
-      if (max < arrNum[i]) {
-            max = arrNum[i];
-      }
-}
+// for (let i = 1; i < arrNum.length; i++) {
+//       if (max < arrNum[i]) {
+//             max = arrNum[i];
+//       }
+// }
 
-console.log(max);
+// console.log(max);
